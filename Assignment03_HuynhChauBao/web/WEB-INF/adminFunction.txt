@@ -1,0 +1,9 @@
+checkOutControl
+checkOut
+history
+historyPage
+searchHistoryControl
+searchByNameHistory
+searchByDateHistory
+deleteHistory
+ratingCar
